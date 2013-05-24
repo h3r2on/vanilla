@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/*------------------------------------*\
+    YOUR-PROJECT.CSS
+\*------------------------------------*/
+
+/**
+ * Setup
+ */
+
+// project variables
+@import "vars";
+
+// Compass CSS3
+@import "compass/css3";
+
+// inuit
+@import "vendor/inuit";
+
+// Sussy
+@import "susy";
+
+/**
+ * She’s all yours, cap’n... Begin importing your stuff here.
+ */
+
+// partials & modules
+@import "partials/base";
